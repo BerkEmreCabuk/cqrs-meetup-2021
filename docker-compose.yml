@@ -22,6 +22,6 @@ services:
       - cqrs-networks
 
 networks:
-  devbox:
+  cqrs-networks:
     driver: bridge
 
